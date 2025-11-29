@@ -46,7 +46,7 @@
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasho11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasho11&theme=tokyonight" width="400"/>
 
 </div>
 
@@ -129,13 +129,19 @@ Real-time mood prediction from images
 
 <div align="center">
 
-## 📊 GitHub Analytics
+  ### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasho11&theme=radical" width="98%"/>
+</p>
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasho11&theme=radical"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasho11&theme=radical"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yasho11&theme=radical"/>
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasho11&theme=radical"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yasho11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasho11&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasho11&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="98%"/>
-
+</p>
 </div>
 
 ---
