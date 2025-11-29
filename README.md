@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Yashodeep Basnet 👋</h1>
 <p align="center">Full-Stack + AI/ML developer building real-world SaaS products and AI applications.</p>
 <p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" alt="Coding GIF" width="300"/>
+  <img src="[https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)" alt="Coding GIF" width="300"/>
 </p>
 <p align="center">I love showcasing my projects, experimenting with hobby projects, and giving back to the community.</p>
 
