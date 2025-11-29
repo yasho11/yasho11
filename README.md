@@ -234,9 +234,6 @@ const yashodeep = {
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/yasho11/yasho11/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
