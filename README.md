@@ -2,13 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yashodeep%20Basnet&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;SaaS+Product+Builder+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Engineering+Intern+%F0%9F%94%A7;ETL+Pipelines+%7C+SQL+%7C+Python;Cloud+Data+Systems+%E2%98%81%EF%B8%8F;Building+Reliable+Data+Platforms" />
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE5aWhrN3k0cmY0N2MxYXUwaXIybXdtb3V1MWN3YjZvdWg2NWQ2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
-
-<p style="font-size: 18px; margin: 20px 0;">
-  <em>Building the future, one commit at a time</em> 🌟<br/>
-  <strong>Crafting real-world SaaS products & AI applications that make a difference</strong>
+<p>
+<strong>Aspiring Data Engineer</strong> focused on building scalable pipelines, clean data models, and production-ready data systems.
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yasho11&color=blueviolet&style=for-the-badge)](https://github.com/yasho11)
@@ -19,105 +16,28 @@
 
 ---
 
-<div align="center">
+## 🔧 Data Engineering Tech Stack
 
-## 🎨 Tech Arsenal
+<div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 💻 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css,js,vite" />
+### Languages
+<img src="https://skillicons.dev/icons?i=python,typescript,js" />
 
 </td>
 <td align="center" width="33%">
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,django,postgresql,mongodb" />
+### Data & Backend
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,flask,fastapi" />
 
 </td>
 <td align="center" width="33%">
 
-### 🤖 AI/ML & Tools
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,kubernetes,git,github,vercel,aws" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasho11&theme=tokyonight" width="400"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Adversight
-<img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Type-SaaS-blueviolet?style=for-the-badge"/>
-
-**Multi-platform ad analytics dashboard**  
-Aggregates campaign data with real-time insights
-
-`Next.js` `TypeScript` `MongoDB` `Chart.js`
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge)](link)
-[![Private](https://img.shields.io/badge/🔒_Private_Repo-gray?style=for-the-badge)](#)
-
-</td>
-<td width="50%">
-
-### 🧠 AI Habit Tracker
-<img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Powered-orange?style=for-the-badge"/>
-
-**Intelligent habit tracking with LLM insights**  
-Personalized recommendations & progress analytics
-
-`React` `Node.js` `OpenAI` `PostgreSQL`
-
-[![YouTube](https://img.shields.io/badge/▶️_Demo-red?style=for-the-badge&logo=youtube)](link)
-[![Repo](https://img.shields.io/badge/📦_Repo-blue?style=for-the-badge&logo=github)](link)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💰 Finance Tracker
-<img src="https://img.shields.io/badge/Full_Stack-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Email_Alerts-yellow?style=for-the-badge"/>
-
-**Smart personal finance management**  
-Visual analytics & automated notifications
-
-`React` `Express` `MongoDB` `Recharts`
-
-[![YouTube](https://img.shields.io/badge/▶️_Demo-red?style=for-the-badge&logo=youtube)](link)
-[![Repo](https://img.shields.io/badge/📦_Repo-blue?style=for-the-badge&logo=github)](link)
-
-</td>
-<td width="50%">
-
-### 😊 Image Mood Detection
-<img src="https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deployed-success?style=for-the-badge"/>
-
-**ML-powered emotion recognition**  
-Real-time mood prediction from images
-
-`Python` `TensorFlow` `Flask` `React`
-
-[![YouTube](https://img.shields.io/badge/▶️_Demo-red?style=for-the-badge&logo=youtube)](link)
-[![Repo](https://img.shields.io/badge/📦_Repo-blue?style=for-the-badge&logo=github)](link)
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
 
 </td>
 </tr>
@@ -127,123 +47,72 @@ Real-time mood prediction from images
 
 ---
 
+## 🚀 Data Engineering Projects
+
+### 🛒 Retail Sales ETL Pipeline  
+**Python · PostgreSQL · Pandas · Docker**
+
+- Built automated ETL pipeline for multi-source retail data (CSV, Excel, JSON)  
+- Implemented reusable extract/transform/load modules  
+- Designed relational schemas for stores, products, transactions  
+- Generated business KPIs and analytics dashboards  
+- Containerized pipeline using Docker  
+
+---
+
+### 🎓 Coventry Academic Search Engine  
+**Python · Web Crawling · Inverted Index · TF-IDF · Flask**
+
+- Crawled 50+ academic papers with robots.txt compliance  
+- Built inverted index (1,800+ terms, 4,000+ links)  
+- Implemented weighted TF-IDF ranking  
+- Sub-second query responses via Flask API  
+
+---
+
+### 🧠 AI Personal Habit Tracker (Data System)  
+**Node.js · MongoDB · Docker · JWT**
+
+- Designed data schemas for habits, streaks, completions  
+- Built REST APIs with authentication  
+- Integrated AI-based analytics  
+- Fully containerized backend  
+
+---
+
+### 📰 Automated News Classifier  
+**Python · Naive Bayes · Web Crawling**
+
+- Crawled and classified real-time news  
+- F1-score > 0.97 across all classes  
+- Built scalable text processing pipeline  
+
+---
+
+### 🕵️ Fake News Detection API  
+**Python · Scikit-learn · NLTK · Flask**
+
+- Processed 45,000+ articles  
+- Random Forest achieved 99.76% F1-score  
+- Deployed real-time inference API  
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-
-  ### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasho11&theme=radical" width="98%"/>
-</p>
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasho11&theme=radical"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasho11&theme=radical"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yasho11&theme=radical"/>
-</p>
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasho11&theme=radical"/>
-
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasho11&theme=radical" width="98%"/>
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me (Data Engineer Edition)
 
-## 🌟 About Me
-
-<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding"/>
-
-```typescript
-const yashodeep = {
-    code: ["TypeScript", "Python", "JavaScript"],
-    focus: ["Full-Stack Dev", "AI/ML", "SaaS"],
-    hobbies: {
-        creative: ["Writing monologues & poems"],
-        intellectual: ["Reading non-fiction novels"],
-        adventure: ["Traveling the world 🌍"],
-        entertainment: ["Anime & manga enthusiast 📚"]
-    },
-    currentlyLearning: ["Advanced ML", "Cloud Architecture"],
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-```
-
-<br clear="right"/>
-
-### 🎯 What Drives Me
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/>
-<br><strong>Clean Code</strong>
-<br><sub>Crafting elegant solutions</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
-<br><strong>AI Innovation</strong>
-<br><sub>Building intelligent systems</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/open-source.png" width="60"/>
-<br><strong>Open Source</strong>
-<br><sub>Giving back to community</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/learning.png" width="60"/>
-<br><strong>Continuous Learning</strong>
-<br><sub>Always evolving</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-<a href="https://www.linkedin.com/in/yasho11/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:yashodeep@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/yasho11">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://twitter.com/yasho11">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-<br/><br/>
-
-### 💬 Open for Collaborations & Opportunities!
-
-<img src="https://img.shields.io/badge/Available_for-Freelance-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open_to-Full_Time-blue?style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-<div align="center">
-  
-  ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-  ![Powered by Coffee](https://img.shields.io/badge/Powered%20by-☕-brown?style=for-the-badge)
-  
-  **⭐ Star my repos if you find them interesting!**
-  
-</div>
+```python
+yashodeep = {
+    "role": "Data Engineering Intern",
+    "core_skills": ["ETL", "SQL", "Data Modeling", "APIs"],
+    "tools": ["Python", "PostgreSQL", "Docker", "AWS"],
+    "interests": ["Data Platforms", "Analytics Systems", "Cloud Pipelines"],
+    "currently_learning": ["Airflow", "Spark", "Cloud Architecture"]
+}
